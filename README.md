@@ -40,4 +40,4 @@
   <li><a href="https://alpho320.systems" target="_blank">Alpho | Cahit Şahin (Portfolio)</a></li>
 </ul>
 <hr>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x4kr3p&count_private=true&show-icons=true&theme=vue&include_all_commits=true&custom_title=My%20Stats&show_owner=true" alt="TolqaDev - GitHub Profile"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolqadev&count_private=true&show-icons=true&theme=vue&include_all_commits=true&custom_title=My%20Stats&show_owner=true" alt="TolqaDev - GitHub Profile"/></p>
