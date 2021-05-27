@@ -15,7 +15,7 @@
 <hr>
 <h2 align="center">:speech_balloon: Contact Me!</h2>
 <p align="center">:camera:&nbsp;Instagram: <a href="https://www.instagram.com/tolqa34er/" style="text-align:center">@Tolqa34Er</a></p>
-  <p align="center">🎙&nbsp;My Discord: <bold>4kr3p#0600</bold></p>
+  <p align="center">🎙&nbsp;My Discord: <bold>TolqaDev#0600</bold></p>
   <p align="center">:mailbox:&nbsp;Mail: <a href="mailto:tolqa.er1@gmail.com" style="text-align:center">tolqa.er1@gmail.com</a></p>
 <hr>
 <h2 align="center">:robot: Languages i Know</h2>
