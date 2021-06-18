@@ -36,7 +36,7 @@
   <li><a href="https://thocauto.com" target="_blank">ThocAuto A.Ş.</a></li>
   <li><a href="https://teknikelektronik.net" target="_blank">Teknik Elektronik San. Ve Tic. Ltd. Şti.</a></li>
   <li><a href="https://visualbyfuture.com" target="_blank">Visual by Future (VBF) - Graphic & Software Design</a></li>
-  <li><a href="https://tolgaer.com" target="_blank">TolqaDev | Tolga Er (Portfolio)</a></li>
+  <li><a href="https://tolqa.dev" target="_blank">TolqaDev | Tolga Er (Portfolio)</a></li>
   <li><a href="https://alpho320.systems" target="_blank">Alpho | Cahit Şahin (Portfolio)</a></li>
 </ul>
 <hr>
