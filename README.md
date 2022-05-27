@@ -5,16 +5,16 @@
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=tolqadev&style=flat-square" alt="TolqaDev - GitHub Profile" />
     <img src="https://img.shields.io/github/followers/tolqadev?style=flat-square" alt="TolqaDev - GitHub Profile" />
-    <p align="center">:telescope: Currently working on <a href="https://github.com/visualbyfuture" target="_blank" style="text-align:center">@VisualByFuture</a></p>
+    <p align="center">:telescope: Currently Working at <a href="https://linkedin.com/company/gpay-global/" target="_blank" style="text-align:center">GPay Payment Technologies</a></p>
   </p>
 </p>
 <p align="center">
-  <h2 align="center">:speech_balloon: Contact Me!</h2><br><br>
+  <h2 align="center">:speech_balloon: Contact Me!</h2><br>
   <p align="center">
   <a href="mailto:tolqa.er1@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/>
   </a>
-  <a href="https://linkedin.com/in/tolga-er-2378901b2/" alt="Linkedin">
+  <a href="https://linkedin.com/in/tolqa-er/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN"/>
   </a>
   <a href="https://instagram.com/tolqadev" alt="Instagram">
