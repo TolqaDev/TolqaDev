@@ -1,4 +1,4 @@
-[![banner](https://tolqa.dev/github/pictures/banner.png)](https://tolqa.dev)
+[![banner](https://github.tolqa.dev/image/banner.jpg)](https://tolqa.dev)
 <p align="center">
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tolga Er</h1></img>
   <h3 align="center">Medior PHP Developer</h3>
