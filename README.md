@@ -29,12 +29,12 @@
   <h2 align="center">:robot: Languages i Know</h2><br>
   <p align="center">
     <code><img src="https://github.tolqa.dev/image/php8.png" alt="php8" width="40" height="40"/></code>
-    <code><img src="https://github.tolqa.dev/image/html5.png" alt="html5" width="40" height="40"/></code>
-    <code><img src="https://github.tolqa.dev/image/css3.png" alt="css3" width="40" height="40"/></code> 
+    <code><img src="https://github.tolqa.dev/image/html.png" alt="html5" width="40" height="40"/></code>
+    <code><img src="https://github.tolqa.dev/image/css.png" alt="css3" width="40" height="40"/></code> 
     <code><img src="https://github.tolqa.dev/image/javascript.png" alt="javascript" width="40" height="40"/></code> 
     <code><img src="https://github.tolqa.dev/image/nodejs.png" alt="nodejs" width="40" height="40"/></code>
     <br>
-    <code><img src="https://github.tolqa.dev/image/centos7.png" alt="centos7" width="40" height="40"/></code>
+    <code><img src="https://github.tolqa.dev/image/centos.png" alt="centos7" width="40" height="40"/></code>
     <code><img src="https://github.tolqa.dev/image/linux.png" alt="linux" width="40" height="40"/></code>
     <code><img src="https://github.tolqa.dev/image/windows.png" alt="windows" width="40" height="40"/></code>
     <br>
