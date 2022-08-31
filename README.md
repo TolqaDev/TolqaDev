@@ -5,7 +5,7 @@
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=tolqadev&style=flat-square" alt="TolqaDev - GitHub Profile" />
     <img src="https://img.shields.io/github/followers/tolqadev?style=flat-square" alt="TolqaDev - GitHub Profile" />
-    <p align="center">:telescope: Currently Working at <a href="https://www.linkedin.com/company/istanbul-eczacı-odası" target="_blank" style="text-align:center">İstanbul Eczacı Odası</a></p>
+    <p align="center">:telescope: Currently Working at <a href="https://www.linkedin.com/company/istanbul-eczacı-odası" target="_blank" style="text-align:center">TEB 1. BÖLGE İstanbul Eczacı Odası</a></p>
   </p>
 </p>
 <p align="center">
@@ -28,18 +28,18 @@
 <p align="center">
   <h2 align="center">:robot: Languages i Know</h2><br>
   <p align="center">
-    <code><img src="https://tolqa.dev/github/pictures/php8.svg" alt="php8" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/github/pictures/html5.svg" alt="html5" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/github/pictures/css3.svg" alt="css3" width="40" height="40"/></code> 
-    <code><img src="https://tolqa.dev/github/pictures/javascript.svg" alt="javascript" width="40" height="40"/></code> 
-    <code><img src="https://tolqa.dev/github/pictures/nodejs.svg" alt="nodejs" width="40" height="40"/></code>
+    <code><img src="https://github.tolqa.dev/image/php8.png" alt="php8" width="40" height="40"/></code>
+    <code><img src="https://github.tolqa.dev/image/html5.png" alt="html5" width="40" height="40"/></code>
+    <code><img src="https://github.tolqa.dev/image/css3.png" alt="css3" width="40" height="40"/></code> 
+    <code><img src="https://github.tolqa.dev/image/javascript.png" alt="javascript" width="40" height="40"/></code> 
+    <code><img src="https://github.tolqa.dev/image/nodejs.png" alt="nodejs" width="40" height="40"/></code>
     <br>
-    <code><img src="https://tolqa.dev/github/pictures/centos7.svg" alt="centos7" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/github/pictures/linux.svg" alt="linux" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/github/pictures/windows.svg" alt="windows" width="40" height="40"/></code>
+    <code><img src="https://github.tolqa.dev/image/centos7.png" alt="centos7" width="40" height="40"/></code>
+    <code><img src="https://github.tolqa.dev/image/linux.png" alt="linux" width="40" height="40"/></code>
+    <code><img src="https://github.tolqa.dev/image/windows.png" alt="windows" width="40" height="40"/></code>
     <br>
-    <code><img src="https://tolqa.dev/github/pictures/mysql.svg" alt="mysql" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/github/pictures/mongodb.svg" alt="mongodb" width="40" height="40"/></code>
+    <code><img src="https://github.tolqa.dev/image/mysql.png" alt="mysql" width="40" height="40"/></code>
+    <code><img src="https://github.tolqa.dev/image/mssql.png" alt="mssql" width="40" height="40"/></code>
     <br><br>
     <p><b>Note: </b>The infrastructures that I use in my projects are listed above, except for these infrastructures, there are those that I use passively.</p>
   </p>
