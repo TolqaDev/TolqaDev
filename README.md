@@ -5,7 +5,7 @@
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=tolqadev&style=flat-square" alt="TolqaDev - GitHub Profile" />
     <img src="https://img.shields.io/github/followers/tolqadev?style=flat-square" alt="TolqaDev - GitHub Profile" />
-    <p align="center">:telescope: Currently Working at <a href="https://www.linkedin.com/company/istanbul-eczacı-odası" target="_blank" style="text-align:center">TEB 1. BÖLGE İstanbul Eczacı Odası and VisualByFuture</a></p>
+    <p align="center">:telescope: Currently Working at <a href="https://www.linkedin.com/company/istanbul-eczacı-odası" target="_blank" style="text-align:center">TEB 1. BÖLGE İstanbul Eczacı Odası</a> and <a href="https://visualbyfuture.com/marka-tescil" target="_blank" style="text-align:center">VisualByFuture</a></p>
   </p>
 </p>
 <p align="center">
