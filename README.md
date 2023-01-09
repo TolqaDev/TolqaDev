@@ -11,13 +11,13 @@
 <p align="center">
   <h2 align="center">:speech_balloon: Contact Me!</h2><br>
   <p align="center">
-  <a href="mailto:tolqa.er1@gmail.com" alt="Gmail">
+  <a href="mailto:tolqadev@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/>
   </a>
   <a href="https://linkedin.com/in/tolqa-er/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN"/>
   </a>
-  <a href="https://instagram.com/tolqadev" alt="Instagram">
+  <a href="https://instagram.com/tolqa.dev" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/>
   </a>
   <a href="https://discord.gg/v8X96YBfqv" alt="Discord">
