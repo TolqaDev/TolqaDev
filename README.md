@@ -27,20 +27,20 @@
 <p align="center">
   <h2 align="center">:robot: Languages i Know</h2><br>
   <p align="center">
-    <code><img src="https://tolqa.dev/github/php8.png" alt="php8" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/github/html.png" alt="html5" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/github/css.png" alt="css3" width="40" height="40"/></code> 
-    <code><img src="https://tolqa.dev/github/javascript.png" alt="javascript" width="40" height="40"/></code> 
-    <code><img src="https://tolqa.dev/github/nodejs.png" alt="nodejs" width="40" height="40"/></code>
+    <code><img src="https://tolqa.dev/assets/images/github/php8.png" alt="php8" width="40" height="40"/></code>
+    <code><img src="https://tolqa.dev/assets/images/github/html.png" alt="html5" width="40" height="40"/></code>
+    <code><img src="https://tolqa.dev/assets/images/github/css.png" alt="css3" width="40" height="40"/></code> 
+    <code><img src="https://tolqa.dev/assets/images/github/javascript.png" alt="javascript" width="40" height="40"/></code> 
+    <code><img src="https://tolqa.dev/assets/images/github/nodejs.png" alt="nodejs" width="40" height="40"/></code>
     <br>
-    <code><img src="https://tolqa.dev/github/ubuntu.png" alt="centos7" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/github/windows.png" alt="windows" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/github/linux.png" alt="linux" width="40" height="40"/></code>
+    <code><img src="https://tolqa.dev/assets/images/github/ubuntu.png" alt="centos7" width="40" height="40"/></code>
+    <code><img src="https://tolqa.dev/assets/images/github/windows.png" alt="windows" width="40" height="40"/></code>
+    <code><img src="https://tolqa.dev/assets/images/github/linux.png" alt="linux" width="40" height="40"/></code>
     <br>
-    <code><img src="https://tolqa.dev/github/mysql.png" alt="mysql" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/github/mssql.png" alt="mssql" width="40" height="40"/></code>
+    <code><img src="https://tolqa.dev/assets/images/github/mysql.png" alt="mysql" width="40" height="40"/></code>
+    <code><img src="https://tolqa.dev/assets/images/github/mssql.png" alt="mssql" width="40" height="40"/></code>
     <br>
-    <code><img src="https://tolqa.dev/github/fortinet.png" alt="mssql" width="40" height="40"/></code>
+    <code><img src="https://tolqa.dev/assets/images/github/fortinet.png" alt="mssql" width="40" height="40"/></code>
     <br><br>
     <p><b>Note: </b>The infrastructures that I use in my projects are listed above, except for these infrastructures, there are those that I use passively.</p>
   </p>
