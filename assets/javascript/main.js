@@ -75,8 +75,12 @@ class Field extends React.Component {
                 help: [
                     'PROJECT <TITLE> Launches a specified project in a new tab or separate window.',
                     'List of projects currently include:',
+                    '',
                     'VisualByFuture',
+                    'It is a non-profit employment and sales platform under construction for those providing services in fields such as Graphic Design, Web Design, Mobile Applications, etc.',
+                    '',
                     'JetCompany',
+                    'It is a SAAS product manufacturing and marketing brand established with the aim of meeting the corporate company needs to create a competitive market.',
                     '',
                     'TITLE....................The title of the project you want to view.']
             },
