@@ -271,7 +271,18 @@ class Field extends React.Component {
             return this.setState(state => ({
                 fieldHistory: [...state.fieldHistory, {
                     text: [
-                        ''
+                        'Certificates:',
+                        'PHP6.....................................Udemy',
+                        'PHP7.....................................Udemy',
+                        'PHP8.....................................Udemy',
+                        'JavaScript & Node.JS.....................Udemy',
+                        'Fundamentals of Digital Marketing........Google',
+                        '',
+                        'Work:',
+                        'Sr. PHP Developer',
+                        'JR. System Administrator',
+                        'JR. Node.JS Developer',
+                        'April 2009 - Present'
                     ],
                     hasBuffer: true
                 }]
