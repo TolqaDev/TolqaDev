@@ -272,7 +272,7 @@ class Field extends React.Component {
                 fieldHistory: [...state.fieldHistory, {
                     text: [
                         'Certificates:',
-                        'PHP6.....................................Udemy',
+                        'PHP5.....................................Udemy',
                         'PHP7.....................................Udemy',
                         'PHP8.....................................Udemy',
                         'JavaScript & Node.JS.....................Udemy',
