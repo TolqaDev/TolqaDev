@@ -1,14 +1,14 @@
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/TolqaDev">
+    <a href="https://tolqa.dev/">
       <img src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=36&center=true&multiline=true&width=700&height=100&lines=Hi%20%F0%9F%91%8B,%20I%27m%20Tolga%20Er;Senior%20PHP%20Developer">
     </a>
   </h1>
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=tolqadev&style=flat-square" alt="TolqaDev - GitHub Profile" />
     <img src="https://img.shields.io/github/followers/tolqadev?style=flat-square" alt="TolqaDev - GitHub Profile" />
-    <p align="center">:telescope: My Registered Project Development Trademark <a href="https://visualbyfuture.com/marka-tescil" target="_blank" style="text-align:center">VisualByFuture</a></p>
-    <p align="center">:telescope: My SaaS Project that I Developed <a href="https://jetcompany.co" target="_blank" style="text-align:center">JetCompany / JetShorURL - JetAnalytic</a></p>
+    <p align="center">:telescope: My Registered Project Development Trademark <a href="https://visualbyfuture.com.tr/" target="_blank" style="text-align:center">VisualByFuture</a></p>
+    <p align="center">:telescope: My SaaS Project that I Developed <a href="https://jetcompany.co/" target="_blank" style="text-align:center">JetCompany / JetShorURL - JetAnalytic</a></p>
   </p>
 </p>
 <p align="center">
