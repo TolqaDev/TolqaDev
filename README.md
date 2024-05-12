@@ -1,20 +1,20 @@
 <p align="center">
   <h1 align="center">
     <a href="https://tolqa.dev/">
-      <img src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=36&center=true&multiline=true&width=700&height=100&lines=Hi%20%F0%9F%91%8B,%20I%27m%20Tolga%20Er;Senior%20PHP%20Developer">
+      <img src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=36&center=true&multiline=true&width=700&height=100&lines=Hi%20%F0%9F%91%8B,%20I%27m%20Tolga%20Er;Senior%20Back%20END%20Developer">
     </a>
   </h1>
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=tolqadev&style=flat-square" alt="TolqaDev - GitHub Profile" />
     <img src="https://img.shields.io/github/followers/tolqadev?style=flat-square" alt="TolqaDev - GitHub Profile" />
-    <p align="center">:telescope: My Registered Project Development Trademark <a href="https://visualbyfuture.com.tr/" target="_blank" style="text-align:center">VisualByFuture</a></p>
-    <p align="center">:telescope: My SaaS Project that I Developed <a href="https://jetcompany.co/" target="_blank" style="text-align:center">JetCompany / JetShorURL - JetAnalytic</a></p>
+    <p align="center">:telescope: My Registered Project Development Trademark <a href="https://visualbyfuture.com.tr/" target="_blank" style="text-align:center">VisualbyFuture - VBF: Software & Graphic Design</a></p>
+    <p align="center">:telescope: My SaaS Project that I Developed <a href="https://jetcompany.co/" target="_blank" style="text-align:center">JetCompany - JetCo: Professional SaaS Software…</a></p>
   </p>
 </p>
 <p align="center">
   <h2 align="center">:speech_balloon: Contact Me!</h2><br>
   <p align="center">
-  <a href="mailto:me@tolqa.dev" alt="Gmail">
+  <a href="mailto:me@tolqa.dev" alt="Email">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/>
   </a>
   <a href="https://linkedin.com/in/tolqa-er/" alt="Linkedin">
