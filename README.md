@@ -26,20 +26,20 @@
 <p align="center">
   <h2 align="center">:robot: Languages i Know</h2><br>
   <p align="center">
-    <code><img src="pictures/php8.png" alt="php8" width="40" height="40"/></code>
-    <code><img src="pictures/html.png" alt="html5" width="40" height="40"/></code>
-    <code><img src="pictures/css.png" alt="css3" width="40" height="40"/></code> 
-    <code><img src="pictures/javascript.png" alt="javascript" width="40" height="40"/></code> 
-    <code><img src="pictures/nodejs.png" alt="nodejs" width="40" height="40"/></code>
+    <code><img src="https://github.com/TolqaDev/TolqaDev/assets/67521659/179d3b80-2933-4d6d-8c36-826ea27c3ee0" alt="php8" width="40" height="40"/></code>
+    <code><img src="https://github.com/TolqaDev/TolqaDev/assets/67521659/b0a33f29-6f26-4d4c-98df-58b77d176590" alt="html5" width="40" height="40"/></code>
+    <code><img src="https://github.com/TolqaDev/TolqaDev/assets/67521659/1c116007-d83d-46ad-92f9-a65c4b11e7b6" alt="css3" width="40" height="40"/></code> 
+    <code><img src="https://github.com/TolqaDev/TolqaDev/assets/67521659/47896d7a-f1aa-42fb-a472-004545294600" alt="javascript" width="40" height="40"/></code> 
+    <code><img src="https://github.com/TolqaDev/TolqaDev/assets/67521659/404a1eb7-a008-4789-a3e4-565677651c4e" alt="nodejs" width="40" height="40"/></code>
     <br>
-    <code><img src="pictures/ubuntu.png" alt="centos7" width="40" height="40"/></code>
-    <code><img src="pictures/windows.png" alt="windows" width="40" height="40"/></code>
-    <code><img src="pictures/linux.png" alt="linux" width="40" height="40"/></code>
+    <code><img src="https://github.com/TolqaDev/TolqaDev/assets/67521659/3544b13c-2bb5-4c00-b376-97825a1f8682" alt="centos7" width="40" height="40"/></code>
+    <code><img src="https://github.com/TolqaDev/TolqaDev/assets/67521659/3c107380-621d-46db-96ca-7ebf19d4c509" alt="windows" width="40" height="40"/></code>
+    <code><img src="https://github.com/TolqaDev/TolqaDev/assets/67521659/5707d51c-4c2f-47cc-a1cf-f2f7fd699dd0" alt="linux" width="40" height="40"/></code>
     <br>
-    <code><img src="pictures/mysql.png" alt="mysql" width="40" height="40"/></code>
-    <code><img src="pictures/mssql.png" alt="mssql" width="40" height="40"/></code>
+    <code><img src="https://github.com/TolqaDev/TolqaDev/assets/67521659/5a434554-d5ee-4c33-9b72-7d99a4bb3f50" alt="mysql" width="40" height="40"/></code>
+    <code><img src="https://github.com/TolqaDev/TolqaDev/assets/67521659/10658635-54f1-4bc2-bc22-c350a1fc1b52" alt="mssql" width="40" height="40"/></code>
     <br>
-    <code><img src="pictures/fortinet.png" alt="mssql" width="40" height="40"/></code>
+    <code><img src="https://github.com/TolqaDev/TolqaDev/assets/67521659/c3a5c1ab-fea5-4755-913c-874cde183d3d" alt="mssql" width="40" height="40"/></code>
     <br><br>
     <p><b>Note: </b>The infrastructures that I use in my projects are listed above, except for these infrastructures, there are those that I use passively.</p>
   </p>
