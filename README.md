@@ -7,8 +7,7 @@
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=tolqadev&style=flat-square" alt="TolqaDev - GitHub Profile" />
     <img src="https://img.shields.io/github/followers/tolqadev?style=flat-square" alt="TolqaDev - GitHub Profile" />
-    <p align="center">:telescope: My Registered Project Development Trademark <a href="https://visualbyfuture.com.tr/" target="_blank" style="text-align:center">VisualbyFuture - VBF: Software & Graphic Design</a></p>
-    <p align="center">:telescope: My SaaS Project that I Developed <a href="https://jetcompany.co/" target="_blank" style="text-align:center">JetCompany - JetCo: Professional SaaS Software…</a></p>
+    <p align="center">:telescope: My Registered Project Development Trademark <a href="https://visualbyfuture.com.tr/" target="_blank" style="text-align:center">VBF: Software & Graphic Design</a></p>
   </p>
 </p>
 <p align="center">
@@ -27,20 +26,20 @@
 <p align="center">
   <h2 align="center">:robot: Languages i Know</h2><br>
   <p align="center">
-    <code><img src="https://tolqa.dev/assets/images/github/php8.png" alt="php8" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/assets/images/github/html.png" alt="html5" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/assets/images/github/css.png" alt="css3" width="40" height="40"/></code> 
-    <code><img src="https://tolqa.dev/assets/images/github/javascript.png" alt="javascript" width="40" height="40"/></code> 
-    <code><img src="https://tolqa.dev/assets/images/github/nodejs.png" alt="nodejs" width="40" height="40"/></code>
+    <code><img src="pictures/php8.png" alt="php8" width="40" height="40"/></code>
+    <code><img src="pictures/html.png" alt="html5" width="40" height="40"/></code>
+    <code><img src="pictures/css.png" alt="css3" width="40" height="40"/></code> 
+    <code><img src="pictures/javascript.png" alt="javascript" width="40" height="40"/></code> 
+    <code><img src="pictures/nodejs.png" alt="nodejs" width="40" height="40"/></code>
     <br>
-    <code><img src="https://tolqa.dev/assets/images/github/ubuntu.png" alt="centos7" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/assets/images/github/windows.png" alt="windows" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/assets/images/github/linux.png" alt="linux" width="40" height="40"/></code>
+    <code><img src="pictures/ubuntu.png" alt="centos7" width="40" height="40"/></code>
+    <code><img src="pictures/windows.png" alt="windows" width="40" height="40"/></code>
+    <code><img src="pictures/linux.png" alt="linux" width="40" height="40"/></code>
     <br>
-    <code><img src="https://tolqa.dev/assets/images/github/mysql.png" alt="mysql" width="40" height="40"/></code>
-    <code><img src="https://tolqa.dev/assets/images/github/mssql.png" alt="mssql" width="40" height="40"/></code>
+    <code><img src="pictures/mysql.png" alt="mysql" width="40" height="40"/></code>
+    <code><img src="pictures/mssql.png" alt="mssql" width="40" height="40"/></code>
     <br>
-    <code><img src="https://tolqa.dev/assets/images/github/fortinet.png" alt="mssql" width="40" height="40"/></code>
+    <code><img src="pictures/fortinet.png" alt="mssql" width="40" height="40"/></code>
     <br><br>
     <p><b>Note: </b>The infrastructures that I use in my projects are listed above, except for these infrastructures, there are those that I use passively.</p>
   </p>
