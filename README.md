@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00983A,100:1A1E23&height=280&section=header&text=Tolga%20Er&fontSize=80&fontAlignY=35&desc=Senior%20Back-End%20Developer%20%7C%20Software%20Architect&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff" width="100%" />
   <a href="https://tolqa.dev/">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=0072ff&size=25&center=true&vCenter=true&width=900&height=40&lines=Building+Scalable+Back-End+Architectures;Expert+in+Database+Optimization+%26+Security;Founder+of+VBF:+Software+%26+Graphic+Design;Mobile+%26+Web+Development+Specialist..." />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=0072ff&size=25&center=true&vCenter=true&width=900&height=40&lines=Founder+at+VBF:+Software+%26+Graphic+Design;Full-Stack+Web+Application+Developer;Scalable+%26+Sustainable+System+Development;Analytical+%26+Solution-Oriented+Software+Engineer" />
   </a>
   <br />
   <p align="center">
